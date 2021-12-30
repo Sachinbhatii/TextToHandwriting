@@ -1,6 +1,5 @@
 '''
-Author : Sachin Bhati and Nishu Kumar
-Contact : 8718129@gecnilokheri.ac.in
+Author : Sachin Bhati 
 Contact : 8718138@gecnilokheri.ac.in
 '''
 
